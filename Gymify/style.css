@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+body {
+    background: url(img/gyms-in-barcelona.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+}
+
+.ricerca {
+    height: 400px;
+    background-color: #ECC035;
+    opacity: 0.8;
+    margin-top: 45px;
+}
+
+.container-fluid p {
+    text-align: center;
+    margin-top: 20px;
+    color: #ECC035;
+    font-size: 48px;
+    font-family: londrina solid;
+    
+}
+
+.container-fluid {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100px;
+}
+
+
+
+.slogan h1 {
+    color: #ECC035;
+    font-family: londrina solid;
+    font-size: 50px;
+    
+}
+
+
+.form-group {
+        padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 180px;
+}
+
+.btn{
+    margin-left: 20px;
+    background-color: crimson;
+    color: aliceblue;
+}
+
+
+
+.btn:hover{
+    
+    
+    background-color:darkred;
+    color: aliceblue;
+}
+
+
+
+
+.galleria {
+    padding-top: 80px;
+}
+
+
+.well h2 {
+    color: #ECC035;
+    margin-bottom: -30px;
+    font-family:  londrina solid;
+    font-size: 50px;
+    
+    
+}
+
+.thumbnail {
+    background-color: transparent;
+}
+
+.well {
+        margin-top: 50px;
+        background-color: transparent;
+}
+
+.galleria h4 {
+    color: #ECC035;
+    text-align: center;
+    font-family: londrina solid;
+    font-size: 40px;
+    
+}
+
+
+.recensioni h3 {
+    
+    color: #ECC035;
+    font-family:  londrina solid;
+    font-size: 40px;
+    
+    
+    
+}
+
+
+
+.recensioni h2{
+    
+    color: white;
+    font-family: helvetica neue;
+    font-weight:300;
+    
+}
+.recensioni .text-center {
+    
+   color: #ECC035; 
+    font-family:  londrina solid;
+    font-size: 50px;
+}
+
+.recensioni{
+    
+   margin-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    
+
+    
+    
+}
+
+
+.media {
+    margin-top: 15px;
+    margin-bottom: 20px;
